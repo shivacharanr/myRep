@@ -15,5 +15,8 @@ public class ClassA {
 	public void methodA3() {
 		System.out.println("methodA3 has been executed");
 	}
-
+	@Test
+	public void methodA4() {
+		System.out.println("methodA4 has been executed");
+	}
 }
