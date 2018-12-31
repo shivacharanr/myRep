@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="209" started-at="2018-12-25T02:19:35Z" finished-at="2018-12-25T02:19:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="209" started-at="2018-12-25T02:19:35Z" finished-at="2018-12-25T02:19:35Z">
+      <class name="package1.ClassA">
+        <test-method status="PASS" signature="methodA1()[pri:0, instance:package1.ClassA@1b604f19]" name="methodA1" duration-ms="52" started-at="2018-12-25T07:49:35Z" finished-at="2018-12-25T07:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodA1 -->
+        <test-method status="PASS" signature="methodA2()[pri:0, instance:package1.ClassA@1b604f19]" name="methodA2" duration-ms="7" started-at="2018-12-25T07:49:35Z" finished-at="2018-12-25T07:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodA2 -->
+        <test-method status="PASS" signature="methodA3()[pri:0, instance:package1.ClassA@1b604f19]" name="methodA3" duration-ms="7" started-at="2018-12-25T07:49:35Z" finished-at="2018-12-25T07:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodA3 -->
+      </class> <!-- package1.ClassA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
